@@ -18,4 +18,3 @@ public class Dadu {
         return rand.nextInt(6) + 1;
     }
 }
-
