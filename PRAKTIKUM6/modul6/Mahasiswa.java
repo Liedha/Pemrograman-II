@@ -3,6 +3,7 @@ package modul6;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
+
 public class Mahasiswa {
     private int id;
     private String nama;
